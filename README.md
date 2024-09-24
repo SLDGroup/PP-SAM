@@ -15,3 +15,14 @@ Official Pytorch implementation of the paper [PP-SAM: Perturbed Prompts for Robu
 class="center">
 </p>
 
+## Citations
+
+``` 
+@inproceedings{rahman2024pp,
+  title={PP-SAM: Perturbed Prompts for Robust Adaption of Segment Anything Model for Polyp Segmentation},
+  author={Rahman, Md Mostafijur and Munir, Mustafa and Jha, Debesh and Bagci, Ulas and Marculescu, Radu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4989--4995},
+  year={2024}
+}
+```
