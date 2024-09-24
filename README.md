@@ -5,6 +5,9 @@ Official Pytorch implementation of the paper [PP-SAM: Perturbed Prompts for Robu
 [Md Mostafijur Rahman<sup>1*</sup>](https://github.com/mostafij-rahman), [Mustafa Munir<sup>1</sup>](https://github.com/mmunir127), [Debesh Jha<sup>2</sup>](https://github.com/DebeshJha), [Ulas Bagci<sup>2</sup>](https://github.com/NUBagciLab), [Radu Marculescu<sup>1</sup>](https://radum.ece.utexas.edu/)
 <p><sup>1</sup>The University of Texas at Austin, <sup>2</sup>Northwestern University, <sup>*</sup>Corresponding Author</p>
 
+# Update
+## We released the training code
+
 ## Fine-tuning pipeline
 
 <p align="center">
@@ -12,4 +15,3 @@ Official Pytorch implementation of the paper [PP-SAM: Perturbed Prompts for Robu
 class="center">
 </p>
 
-## Full training and evaluation code coming soon ...
