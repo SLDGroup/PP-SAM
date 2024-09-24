@@ -6,7 +6,7 @@ Official Pytorch implementation of the paper [PP-SAM: Perturbed Prompts for Robu
 <p><sup>1</sup>The University of Texas at Austin, <sup>2</sup>Northwestern University, <sup>*</sup>Corresponding Author</p>
 
 # Update
-## We released the training code
+## ***We released the training code
 
 ## Fine-tuning pipeline
 
